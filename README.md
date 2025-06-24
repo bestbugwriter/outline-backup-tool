@@ -1,7 +1,3 @@
-请将下面的文本保存为项目根目录下的 README.md 文件。您可以根据需要进行调整和补充。
-
-Markdown
-
 # Outline Wiki Backup Tool
 
 [![PyPI version](https://badge.fury.io/py/outline-backup-tool.svg)](https://badge.fury.io/py/outline-backup-tool) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
